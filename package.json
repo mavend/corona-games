@@ -39,7 +39,7 @@
     "remove-accents": "^0.4.2",
     "semantic-ui-css": "^2.4.1",
     "semantic-ui-react": "^2.0.3",
-    "tsconfig-paths": "^3.9.0",
+    "tsconfig-paths": "^3.10.1",
     "typescript": "^4.3.2",
     "use-sound": "^2.1.0"
   },
