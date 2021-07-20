@@ -17,7 +17,7 @@
     "clsx": "^1.1.1",
     "concurrently": "^6.2.0",
     "esm": "^3.2.25",
-    "firebase": "^8.6.2",
+    "firebase": "^8.7.1",
     "firebase-admin": "^9.9.0",
     "i18next": "^20.3.1",
     "i18next-browser-languagedetector": "^6.1.2",
@@ -39,7 +39,7 @@
     "remove-accents": "^0.4.2",
     "semantic-ui-css": "^2.4.1",
     "semantic-ui-react": "^2.0.3",
-    "tsconfig-paths": "^3.9.0",
+    "tsconfig-paths": "^3.10.1",
     "typescript": "^4.3.2",
     "use-sound": "^2.1.0"
   },
@@ -139,7 +139,7 @@
     "nodemon": "^2.0.7",
     "pm2": "^4.5.6",
     "prettier": "^2.3.0",
-    "puppeteer": "^9.1.1",
+    "puppeteer": "^10.1.0",
     "storybook": "^6.2.7",
     "storybook-react-router": "^1.0.8",
     "ts-node": "^10.1.0"
